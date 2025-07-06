@@ -5,3 +5,4 @@ mv root/home* dev/null
 <inside out>
 <inside out>
 umount
+>file
